@@ -1,0 +1,6 @@
+package es.fpdual.hibernate.hibernate.modelo;
+
+public enum TipoHardware {
+
+	MEMORIA_VOLATIL, MEMORIA_NO_VOLATIL, MONITOR, ALMACENAMIENTO_EXTERNO, SONIDO, GRAFICO, ENTRADA, SALIDA, ENTRADA_SALIDA
+}
